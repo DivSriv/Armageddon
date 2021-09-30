@@ -1,12 +1,183 @@
-## Armageddon
-# Progress Tracker
+## Progress Tracker
 
-- [x] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+
+- [ ] Complete Git & GitHub Course
+- [ ] Introduction to Programming
+  - [ ] Types of languages
+  - [ ] Memory management
+- [ ] Flow of the program
+  - [ ] Flowcharts 
+  - [ ] Pseudocode
+- [ ] Introduction to Java
+  - [ ] Introduction
+  - [ ] How it works
+  - [ ] Setup Installation
+  - [ ] Input and Output in Java
+  - [ ] Conditionals & Loops in Java
+    - [ ] if else
+    - [ ] loops
+    - [ ] Switch statements
+  - [ ] Data types
+  - [ ] Coding best practices
+- [ ] Functions
+  - [ ] Introduction
+  - [ ] Scoping in Java
+  - [ ] Shadowing 
+  - [ ] Variable Length Arguments
+  - [ ] Overloading
+- [ ] Arrays
+  - [ ] Introduction 
+  - [ ] Memory management 
+  - [ ] Input and Output
+  - [ ] ArrayList Introduction
+  - [ ] Sorting 
+    - [ ] Insertion Sort
+    - [ ] Selection Sort
+    - [ ] Bubble Sort
+    - [ ] Cyclic Sort
+    - [ ] (More ahead)
+  - [ ] Searching 
+    - [ ] Linear Search
+    - [ ] Binary Search
+    - [ ] Modified Binary Search
+    - [ ] 11th Binary Search on 2D Arrays
+- [ ] Pattern questions
+- [ ] Strings
+  - [ ] Introduction
+  - [ ] How Strings work
+  - [ ] Comparison of methods
+  - [ ] Operations in Strings
+  - [ ] StringBuilder in java 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
