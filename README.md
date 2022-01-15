@@ -185,3 +185,35 @@
     - [ ] Topological Sort
     - [ ] Bellman ford
     - [ ] A* pathfinding Algorithm
+- [ ] Dynamic Programming
+    - [ ] Introduction
+    - [ ] Recursion + Recursion DP + Iteration + Iteration Space Optimized
+    - [ ] Complexity Analysis
+    - [ ] 0/1 Knapsack
+    - [ ] Subset Questions
+    - [ ] Unbounded Knapsack
+    - [ ] Subsequence questions
+    - [ ] String DP
+- [ ] Greedy Algorithms
+- [ ] Tries
+
+### Advanced concepts apart from interviews 
+- [ ] Fast IO
+- [ ] File handling
+- [ ] Bitwise + DP
+- [ ] Extended Euclidean algorithm
+- [ ] Modulo Multiplicative Inverse
+- [ ] Linear Diophantine Equations
+- [ ] Matrix Exponentiation
+- [ ] Mathematical Expectation
+- [ ] Catalan Numbers
+- [ ] Fermat’s Theorem
+- [ ] Wilson's Theorem
+- [ ] Euler's Theorem
+- [ ] Lucas Theorem
+- [ ] Chinese Remainder Theorem
+- [ ] Euler Totient
+- [ ] NP-Completeness
+- [ ] Multithreading
+- [ ] Fenwick Tree / Binary Indexed Tree
+- [ ] Square Root Decomposition
