@@ -39,7 +39,7 @@
   - [ ] Searching 
     - [x] Linear Search
     - [x] Binary Search
-    - [ ] Modified Binary Search
+    - [x] Modified Binary Search
     - [ ] 11th Binary Search on 2D Arrays
 - [ ] Pattern questions
 - [ ] Strings
@@ -67,13 +67,6 @@
         - [ ] Wilson's Theorem
         - [ ] Lucas Theorem
         - [ ] Chinese Remainder Theorem
-- [ ] Functions
-    - [ ] Introduction
-    - [ ] Solving the above math problems in code
-    - [ ] Scoping in Java
-    - [ ] Shadowing
-    - [ ] Variable Length Arguments
-    - [ ] (more content in OOP such as overloading etc)
 - [ ] Space and Time Complexity Analysis
     - [ ] Introduction
     - [ ] Comparion of various cases
