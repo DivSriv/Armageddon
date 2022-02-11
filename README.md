@@ -210,3 +210,22 @@
 - [ ] Multithreading
 - [ ] Fenwick Tree / Binary Indexed Tree
 - [ ] Square Root Decomposition
+
+### Leetcode & Algoexpert progress
+#### Leetcode (5/1688 free problems)
+- [x] Two Sum https://leetcode.com/problems/two-sum/
+- [x] Palindrome Number https://leetcode.com/problems/palindrome-number/
+- [x] Binary Search https://leetcode.com/problems/binary-search/
+- [x] Find Smallest Letter Greater Than Target https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+- [x] Find First and Last Position of Element in Sorted Array	 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+
+#### Algoexpert (3/160)
+- [x] Two Number Sum https://www.algoexpert.io/questions/Two%20Number%20Sum
+- [x] Palindrome Check https://www.algoexpert.io/questions/Palindrome%20Check
+- [x] Binary Search https://www.algoexpert.io/questions/Binary%20Search
+
+
+
+
+
+
