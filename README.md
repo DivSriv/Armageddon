@@ -40,6 +40,7 @@
     - [x] Linear Search
     - [x] Binary Search
     - [x] Modified Binary Search
+    - [x] Binary Search Interview questions
     - [ ] 11th Binary Search on 2D Arrays
 - [ ] Pattern questions
 - [ ] Strings
