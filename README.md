@@ -214,19 +214,19 @@
 
 ### Leetcode & Algoexpert progress
 #### Leetcode (8/1688 free problems)
-- [x] Two Sum https://leetcode.com/problems/two-sum/
-- [x] Subtract the Product and Sum of Digits of an Integer https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
-- [x] Palindrome Number https://leetcode.com/problems/palindrome-number/
-- [x] Binary Search https://leetcode.com/problems/binary-search/
-- [x] Find Smallest Letter Greater Than Target https://leetcode.com/problems/find-smallest-letter-greater-than-target/
-- [x] Find First and Last Position of Element in Sorted Array	 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
-- [x] Peak Index in a Mountain Array https://leetcode.com/problems/peak-index-in-a-mountain-array/
-- [x] Find Peak Element https://leetcode.com/problems/find-peak-element/
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+- [x] [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+- [x] [Binary Search](https://leetcode.com/problems/binary-search/)
+- [x] [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+- [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [x] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+- [x] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 
 #### Algoexpert (3/160)
-- [x] Two Number Sum https://www.algoexpert.io/questions/Two%20Number%20Sum
-- [x] Palindrome Check https://www.algoexpert.io/questions/Palindrome%20Check
-- [x] Binary Search https://www.algoexpert.io/questions/Binary%20Search
+- [x] [Two Number Sum](https://www.algoexpert.io/questions/Two%20Number%20Sum)
+- [x] [Palindrome Check](https://www.algoexpert.io/questions/Palindrome%20Check)
+- [x] [Binary Search](https://www.algoexpert.io/questions/Binary%20Search)
 
 
 
