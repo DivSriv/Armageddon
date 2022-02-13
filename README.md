@@ -41,7 +41,7 @@
     - [x] Binary Search
     - [x] Modified Binary Search
     - [x] Binary Search Interview questions
-    - [ ] 11th Binary Search on 2D Arrays
+    - [x] Binary Search on 2D Arrays
 - [ ] Pattern questions
 - [ ] Strings
     - [ ] Introduction
@@ -213,8 +213,9 @@
 - [ ] Square Root Decomposition
 
 ### Leetcode & Algoexpert progress
-#### Leetcode (7/1688 free problems)
+#### Leetcode (8/1688 free problems)
 - [x] Two Sum https://leetcode.com/problems/two-sum/
+- [x] Subtract the Product and Sum of Digits of an Integer https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 - [x] Palindrome Number https://leetcode.com/problems/palindrome-number/
 - [x] Binary Search https://leetcode.com/problems/binary-search/
 - [x] Find Smallest Letter Greater Than Target https://leetcode.com/problems/find-smallest-letter-greater-than-target/
