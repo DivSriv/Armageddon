@@ -33,7 +33,7 @@
   - [ ] Sorting 
     - [ ] Insertion Sort
     - [ ] Selection Sort
-    - [ ] Bubble Sort
+    - [x] Bubble Sort
     - [ ] Cyclic Sort
     - [ ] (More ahead)
   - [ ] Searching 
