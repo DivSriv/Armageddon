@@ -36,7 +36,7 @@
     - [x] Bubble Sort
     - [ ] Cyclic Sort
     - [ ] (More ahead)
-  - [ ] Searching 
+  - [x] Searching 
     - [x] Linear Search
     - [x] Binary Search
     - [x] Modified Binary Search
