@@ -31,8 +31,8 @@
   - [x] Input and Output
   - [x] ArrayList Introduction
   - [ ] Sorting 
-    - [ ] Insertion Sort
-    - [ ] Selection Sort
+    - [x] Insertion Sort
+    - [x] Selection Sort
     - [x] Bubble Sort
     - [ ] Cyclic Sort
     - [ ] (More ahead)
