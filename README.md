@@ -1,6 +1,6 @@
-## Progress Tracker
+# Progress Tracker
 
-
+## DSA
 - [x] Complete Git & GitHub Course
 - [x] Introduction to Programming
   - [x] Types of languages
@@ -212,8 +212,8 @@
 - [ ] Fenwick Tree / Binary Indexed Tree
 - [ ] Square Root Decomposition
 
-### Leetcode & Algoexpert progress
-#### Leetcode (8/1688 free problems)
+## Leetcode & Algoexpert progress
+### Leetcode (8/1688 free problems)
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 - [x] [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -223,7 +223,7 @@
 - [x] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - [x] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 
-#### Algoexpert (3/160)
+### Algoexpert (3/160)
 - [x] [Two Number Sum](https://www.algoexpert.io/questions/Two%20Number%20Sum)
 - [x] [Palindrome Check](https://www.algoexpert.io/questions/Palindrome%20Check)
 - [x] [Binary Search](https://www.algoexpert.io/questions/Binary%20Search)
