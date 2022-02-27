@@ -213,7 +213,7 @@
 - [ ] Square Root Decomposition
 
 ## Leetcode & Algoexpert progress
-### Leetcode (11/1692 free problems/2188)
+### Leetcode (12/1692 free problems/2188)
 - [x] 1[ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] 2[ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 - [x] 3[ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -225,6 +225,7 @@
 - [x] 9[ 268. Missing Number](https://leetcode.com/problems/missing-number/)
 - [x] 10[ 448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [x] 11[ 2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix)
+- [x] 12[ 287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
 ### Algoexpert (3/160)
 - [x] [Two Number Sum](https://www.algoexpert.io/questions/Two%20Number%20Sum)
