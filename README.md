@@ -30,12 +30,11 @@
   - [x] Memory management 
   - [x] Input and Output
   - [x] ArrayList Introduction
-  - [ ] Sorting 
+  - [x] Sorting 
     - [x] Insertion Sort
     - [x] Selection Sort
     - [x] Bubble Sort
-    - [ ] Cyclic Sort
-    - [ ] (More ahead)
+    - [x] Cyclic Sort (Merge sort etc after recursion)
   - [x] Searching 
     - [x] Linear Search
     - [x] Binary Search
