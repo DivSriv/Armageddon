@@ -229,6 +229,7 @@
 - [x] 13[ 442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 - [x] 14[ 2186. Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/)
 - [x] 15[ 645. Set Mismatch](https://leetcode.com/problems/set-mismatch/)
+- [x] 16[ 41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 
 
 ### Algoexpert (3/160)
