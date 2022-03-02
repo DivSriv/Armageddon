@@ -212,7 +212,7 @@
 - [ ] Square Root Decomposition
 
 ## Leetcode & Algoexpert progress
-### Leetcode (23/1692 free problems/2188)
+### Leetcode (24/1692 free problems/2188)
 - [x] 1-[ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] 2-[ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 - [x] 3-[ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -236,7 +236,8 @@
 - [x] 21-[ 977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [x] 22-[ 189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [x] 23-[ 167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-- [ ] 24-[ ]()
+- [x] 24-[ 283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- [ ] 
 
 
 ### Algoexpert (4/160)
