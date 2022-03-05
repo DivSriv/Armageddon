@@ -242,6 +242,7 @@
 - [x] 27-[ 876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [x] 28-[ 19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) 
 - [x] 29-[ 1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
+- [x] 30-[ 1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
 
 
 ### Algoexpert (4/160)
