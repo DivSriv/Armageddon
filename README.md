@@ -212,7 +212,7 @@
 - [ ] Square Root Decomposition
 
 ## Leetcode & Algoexpert progress
-### Leetcode (32/1700 free problems/2197)
+### Leetcode (33/1700 free problems/2197)
 - [x] 1-[ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] 2-[ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 - [x] 3-[ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -245,6 +245,7 @@
 - [x] 30-[ 1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
 - [x] 31-[ 191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [x] 32-[ 2194. Cells in a Range on an Excel Sheet](https://leetcode.com/contest/weekly-contest-283/problems/cells-in-a-range-on-an-excel-sheet/)
+- [x] 33-[ 2197. Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)
 
 
 ### Algoexpert (4/160)
