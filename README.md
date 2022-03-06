@@ -212,7 +212,7 @@
 - [ ] Square Root Decomposition
 
 ## Leetcode & Algoexpert progress
-### Leetcode (30/1692 free problems/2188)
+### Leetcode (32/1700 free problems/2197)
 - [x] 1-[ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] 2-[ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 - [x] 3-[ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -243,6 +243,8 @@
 - [x] 28-[ 19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) 
 - [x] 29-[ 1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
 - [x] 30-[ 1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
+- [x] 31-[ 191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+- [x] 32-[ 2194. Cells in a Range on an Excel Sheet](https://leetcode.com/contest/weekly-contest-283/problems/cells-in-a-range-on-an-excel-sheet/)
 
 
 ### Algoexpert (4/160)
