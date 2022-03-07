@@ -212,7 +212,7 @@
 - [ ] Square Root Decomposition
 
 ## Leetcode & Algoexpert progress
-### Leetcode (34/1700 free problems/2197)
+### Leetcode (35/1700 free problems/2197)
 - [x] 1-[ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] 2-[ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 - [x] 3-[ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -247,6 +247,7 @@
 - [x] 32-[ 2194. Cells in a Range on an Excel Sheet](https://leetcode.com/contest/weekly-contest-283/problems/cells-in-a-range-on-an-excel-sheet/)
 - [x] 33-[ 2197. Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)
 - [x] 34-[ 1779. Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)
+- [x] 35-[ 1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
 
 
 ### Algoexpert (4/160)
