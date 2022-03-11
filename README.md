@@ -79,7 +79,7 @@
     - [ ] Memory Allocation of various languages
     - [ ] NP Completeness and Hardness
 - [ ] Recursion
-    - [ ] Introduction
+    - [x] Introduction
     - [ ] Why recursion?
     - [ ] Flow of recursive programs - stacks
     - [ ] Convert recursion to iteration
