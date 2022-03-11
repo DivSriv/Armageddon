@@ -123,7 +123,7 @@
     - [ ] Queue using Stack and Vice versa
     - [ ] Circular Queue
 - [ ] Linked List
-    - [ ] Introduction
+    - [x] Introduction
     - [ ] Fast and slow pointer
     - [ ] Cycle Detection
     - [ ] Single and Doubly LinkedList
