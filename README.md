@@ -67,17 +67,17 @@
         - [ ] Wilson's Theorem
         - [ ] Lucas Theorem
         - [ ] Chinese Remainder Theorem
-- [ ] Space and Time Complexity Analysis
-    - [ ] Introduction
-    - [ ] Comparion of various cases
-    - [ ] Solving Linear Recurrence Relations
-    - [ ] Solving Divide and Conquer Recurrence Relations
-    - [ ] Big-O, Big-Omega, Big-Theta Notations
-    - [ ] Get equation of any relation easily - best and easiest approach
-    - [ ] Complexity discussion of all the problems we do
-    - [ ] Space Complexity 
-    - [ ] Memory Allocation of various languages
-    - [ ] NP Completeness and Hardness
+- [x] Space and Time Complexity Analysis
+    - [x] Introduction
+    - [x] Comparion of various cases
+    - [x] Solving Linear Recurrence Relations
+    - [x] Solving Divide and Conquer Recurrence Relations
+    - [x] Big-O, Big-Omega, Big-Theta Notations
+    - [x] Get equation of any relation easily - best and easiest approach
+    - [x] Complexity discussion of all the problems we do
+    - [x] Space Complexity 
+    - [x] Memory Allocation of various languages
+    - [x] NP Completeness and Hardness
 - [ ] Recursion
     - [x] Introduction
     - [ ] Why recursion?
