@@ -212,7 +212,7 @@
 - [ ] Square Root Decomposition
 
 ## Leetcode & Algoexpert progress
-### Leetcode (44/1704 free problems/2203)
+### Leetcode (45/1704 free problems/2203)
 - [x] 1-[ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] 2-[ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 - [x] 3-[ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -257,6 +257,7 @@
 - [x] 42-[ 2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)
 - [x] 43-[ 1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 - [x] 44-[ 1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+- [x] 45-[ 374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 
 
 ### Algoexpert (4/160)
