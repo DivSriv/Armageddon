@@ -50,12 +50,12 @@
     - [ ] StringBuilder in java
 - [ ] Maths for DSA
     - [ ] Introduction
-    - [ ] Complete Bitwise Operators
+    - [x] Complete Bitwise Operators
     - [ ] Prime numbers
     - [ ] HCF / LCM
     - [ ] Sieve of Eratosthenes
     - [ ] Newton's Square Root Method
-    - [ ] Number Theory
+    - [x] Number Theory
     - [ ] Euclidean algorithm
     - [ ] Advanced Concepts for CP (later in course)
         - [ ] Bitwise + DP
