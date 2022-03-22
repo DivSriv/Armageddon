@@ -48,25 +48,15 @@
     - [ ] Comparison of methods
     - [ ] Operations in Strings
     - [ ] StringBuilder in java
-- [ ] Maths for DSA
-    - [ ] Introduction
+- [x] Maths for DSA
+    - [x] Introduction
     - [x] Complete Bitwise Operators
-    - [ ] Prime numbers
-    - [ ] HCF / LCM
-    - [ ] Sieve of Eratosthenes
-    - [ ] Newton's Square Root Method
+    - [x] Prime numbers
+    - [x] HCF / LCM
+    - [x] Sieve of Eratosthenes
+    - [x] Newton's Square Root Method
     - [x] Number Theory
-    - [ ] Euclidean algorithm
-    - [ ] Advanced Concepts for CP (later in course)
-        - [ ] Bitwise + DP
-        - [ ] Extended Euclidean algorithm
-        - [ ] Modulo Properties
-        - [ ] Modulo Multiplicative Inverse
-        - [ ] Linear Diophantine Equations
-        - [ ] Fremat's Theorem
-        - [ ] Wilson's Theorem
-        - [ ] Lucas Theorem
-        - [ ] Chinese Remainder Theorem
+    - [x] Euclidean algorithm
 - [x] Space and Time Complexity Analysis
     - [x] Introduction
     - [x] Comparion of various cases
@@ -80,7 +70,7 @@
     - [x] NP Completeness and Hardness
 - [ ] Recursion
     - [x] Introduction
-    - [ ] Why recursion?
+    - [x] Why recursion?
     - [ ] Flow of recursive programs - stacks
     - [ ] Convert recursion to iteration
     - [ ] Tree building of function calls
