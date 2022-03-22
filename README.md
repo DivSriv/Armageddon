@@ -202,7 +202,7 @@
 - [ ] Square Root Decomposition
 
 ## Leetcode & Algoexpert progress
-### Leetcode (56/1712 free problems/2213)
+### Leetcode (58/1712 free problems/2213)
 - [x] 1-[ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] 2-[ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 - [x] 3-[ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -259,6 +259,8 @@
 - [x] 54-[ 832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 - [x] 55-[ 1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 - [x] 56-[ 1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
+- [x] 57-[ 1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)***
+- [x] 58-[ 867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 
 
 ### Algoexpert (4/160)
