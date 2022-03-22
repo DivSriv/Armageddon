@@ -261,6 +261,8 @@
 - [x] 56-[ 1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 - [x] 57-[ 1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)***
 - [x] 58-[ 867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
+- [x] 59-[ 989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
+- [x] 60-[ 1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 
 
 ### Algoexpert (4/160)
