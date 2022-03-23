@@ -202,7 +202,7 @@
 - [ ] Square Root Decomposition
 
 ## Leetcode & Algoexpert progress
-### Leetcode (58/1712 free problems/2213)
+### Leetcode (61/1712 free problems/2213)
 - [x] 1-[ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] 2-[ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 - [x] 3-[ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -263,6 +263,7 @@
 - [x] 58-[ 867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 - [x] 59-[ 989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 - [x] 60-[ 1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
+- [x] 61-[ 1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 
 
 ### Algoexpert (4/160)
