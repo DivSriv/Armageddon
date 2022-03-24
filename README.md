@@ -74,7 +74,7 @@
     - [x] Flow of recursive programs - stacks
     - [x] Convert recursion to iteration
     - [x] Tree building of function calls
-    - [ ] Tail recursion
+    - [x] Tail recursion
     - [ ] Sorting:
         - [ ] Merge Sort
         - [ ] Quick Sort
@@ -85,7 +85,7 @@
         - [ ] N-Knights
         - [ ] Maze problems
     - [ ] Recursion String Problems
-    - [ ] Recursion Array Problems
+    - [x] Recursion Array Problems
     - [ ] Recursion Pattern Problems
     - [ ] Subset Questions
 - [ ] Object Oriented Programming
