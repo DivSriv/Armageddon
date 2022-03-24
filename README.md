@@ -71,9 +71,9 @@
 - [ ] Recursion
     - [x] Introduction
     - [x] Why recursion?
-    - [ ] Flow of recursive programs - stacks
-    - [ ] Convert recursion to iteration
-    - [ ] Tree building of function calls
+    - [x] Flow of recursive programs - stacks
+    - [x] Convert recursion to iteration
+    - [x] Tree building of function calls
     - [ ] Tail recursion
     - [ ] Sorting:
         - [ ] Merge Sort
