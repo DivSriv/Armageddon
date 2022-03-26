@@ -202,7 +202,7 @@
 - [ ] Square Root Decomposition
 
 ## Leetcode & Algoexpert progress
-### Leetcode (70/1712 free problems/2213)
+### Leetcode (73/1712 free problems/2213)
 - [x] 1-[ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] 2-[ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 - [x] 3-[ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -273,6 +273,9 @@
 - [x] 68-[ 1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 - [x] 69-[ 349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [x] 70-[ 350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+- [x] 71-[ 888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
+- [x] 72-[ 1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
+- [x] 73-[ 1608. Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 
 
 ### Algoexpert (4/160)
