@@ -86,7 +86,7 @@
         - [ ] Maze problems
     - [ ] Recursion String Problems
     - [x] Recursion Array Problems
-    - [ ] Recursion Pattern Problems
+    - [x] Recursion Pattern Problems
     - [ ] Subset Questions
 - [ ] Object Oriented Programming
     - [ ] Introduction
