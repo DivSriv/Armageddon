@@ -42,12 +42,12 @@
     - [x] Binary Search Interview questions
     - [x] Binary Search on 2D Arrays
 - [ ] Pattern questions
-- [ ] Strings
+<!-- - [ ] Strings
     - [ ] Introduction
     - [ ] How Strings work
     - [ ] Comparison of methods
     - [ ] Operations in Strings
-    - [ ] StringBuilder in java
+    - [ ] StringBuilder in java -->
 - [x] Maths for DSA
     - [x] Introduction
     - [x] Complete Bitwise Operators
@@ -180,7 +180,7 @@
 - [ ] Greedy Algorithms
 - [ ] Tries
 
-### Advanced concepts apart from interviews 
+<!-- ### Advanced concepts apart from interviews 
 - [ ] Fast IO
 - [ ] File handling
 - [ ] Bitwise + DP
@@ -199,7 +199,7 @@
 - [ ] NP-Completeness
 - [ ] Multithreading
 - [ ] Fenwick Tree / Binary Indexed Tree
-- [ ] Square Root Decomposition
+- [ ] Square Root Decomposition -->
 
 ## Leetcode & Algoexpert progress
 ### Leetcode (76/1716 free problems/2218)
@@ -224,17 +224,17 @@
 - [x] 19-[ 1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 - [x] 20-[ 1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 - [x] 21-[ 977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
-- [x] 22-[ 189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [x] 22-[ 189. Rotate Array](https://leetcode.com/problems/rotate-array/)`**`
 - [x] 23-[ 167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [x] 24-[ 283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [x] 25-[ 344. Reverse String](https://leetcode.com/problems/reverse-string/)
-- [x] 26-[ 557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+- [x] 26-[ 557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)`***`
 - [x] 27-[ 876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
-- [x] 28-[ 19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) 
+- [x] 28-[ 19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)`***` 
 - [x] 29-[ 1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
 - [x] 30-[ 1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
 - [x] 31-[ 191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-- [x] 32-[ 2194. Cells in a Range on an Excel Sheet](https://leetcode.com/contest/weekly-contest-283/problems/cells-in-a-range-on-an-excel-sheet/)
+- [x] 32-[ 2194. Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)`**`
 - [x] 33-[ 2197. Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)
 - [x] 34-[ 1779. Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)
 - [x] 35-[ 1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
@@ -250,24 +250,24 @@
 - [x] 45-[ 374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - [x] 46-[ 367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 - [x] 47-[ 66. Plus One](https://leetcode.com/problems/plus-one/)
-- [x] 48-[ 1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
+- [x] 48-[ 1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)`**`
 - [x] 49-[ 1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 - [x] 50-[ 1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 - [x] 51-[ 1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
 - [x] 52-[ 2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)
-- [x] 53-[ 2210. Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/)
+- [x] 53-[ 2210. Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/)`**`
 - [x] 54-[ 832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 - [x] 55-[ 1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 - [x] 56-[ 1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
-- [x] 57-[ 1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)***
+- [x] 57-[ 1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)`***`
 - [x] 58-[ 867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 - [x] 59-[ 989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
-- [x] 60-[ 1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
+- [x] 60-[ 1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)`***`
 - [x] 61-[ 1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 - [x] 62-[ 1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 - [x] 63-[ 1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
 - [x] 64-[ 26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-- [x] 65-[ 1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)(Tricky!)
+- [x] 65-[ 1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)`Tricky!`
 - [x] 66-[ 441. Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)
 - [x] 67-[ 1539. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 - [x] 68-[ 1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
@@ -275,10 +275,10 @@
 - [x] 70-[ 350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [x] 71-[ 888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
 - [x] 72-[ 1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
-- [x] 73-[ 1608. Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
-- [x] 74-[ 53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [x] 73-[ 1608. Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)`***`
+- [x] 74-[ 53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)`***`
 - [x] 75-[ 2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
-- [x] 76-[ 2216. Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/)
+- [x] 76-[ 2216. Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/)`***`
 
 
 ### Algoexpert (4/160)
