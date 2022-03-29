@@ -76,7 +76,7 @@
     - [x] Tree building of function calls
     - [x] Tail recursion
     - [ ] Sorting:
-        - [ ] Merge Sort
+        - [x] Merge Sort
         - [ ] Quick Sort
         - [ ] Cyclic Sort
     - [ ] Backtracking
