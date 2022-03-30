@@ -213,10 +213,10 @@
 - [x] 8-[ 162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [x] 9-[ 268. Missing Number](https://leetcode.com/problems/missing-number/)
 - [x] 10-[ 448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
-- [x] 11-[ 2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix)
+- [x] 11-[ 2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix)`Contest`
 - [x] 12-[ 287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [x] 13-[ 442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
-- [x] 14-[ 2186. Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/)
+- [x] 14-[ 2186. Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/)`Contest`
 - [x] 15-[ 645. Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 - [x] 16-[ 41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 - [x] 17-[ 278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
@@ -234,8 +234,8 @@
 - [x] 29-[ 1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
 - [x] 30-[ 1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
 - [x] 31-[ 191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-- [x] 32-[ 2194. Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)`**`
-- [x] 33-[ 2197. Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)
+- [x] 32-[ 2194. Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)`**Contest`
+- [x] 33-[ 2197. Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)`Contest`
 - [x] 34-[ 1779. Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)
 - [x] 35-[ 1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
 - [x] 36-[ 1502. Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
@@ -244,7 +244,7 @@
 - [x] 39-[ 69. Square Root](https://leetcode.com/problems/sqrtx/)
 - [x] 40-[ 1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [x] 41-[ 1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
-- [x] 42-[ 2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)
+- [x] 42-[ 2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)`Contest`
 - [x] 43-[ 1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 - [x] 44-[ 1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 - [x] 45-[ 374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
@@ -254,8 +254,8 @@
 - [x] 49-[ 1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 - [x] 50-[ 1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 - [x] 51-[ 1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
-- [x] 52-[ 2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)
-- [x] 53-[ 2210. Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/)`**`
+- [x] 52-[ 2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)`Contest`
+- [x] 53-[ 2210. Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/)`**Contest`
 - [x] 54-[ 832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 - [x] 55-[ 1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 - [x] 56-[ 1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
@@ -277,8 +277,8 @@
 - [x] 72-[ 1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
 - [x] 73-[ 1608. Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)`***`
 - [x] 74-[ 53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)`***`
-- [x] 75-[ 2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
-- [x] 76-[ 2216. Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/)`***`
+- [x] 75-[ 2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)`Contest`
+- [x] 76-[ 2216. Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/)`***Contest`
 - [x] 77-[ 33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [x] 78-[ 81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 - [x] 79-[ 1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
