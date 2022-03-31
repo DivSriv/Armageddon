@@ -286,7 +286,7 @@
 - [x] 81-[ 1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)
 - [x] 82-[ 410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)`***` `Important`
 - [x] 83-[ 1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
-- [x] 84-[ 1773. Count Items Matching a rule](https://leetcode.com/problems/count-items-matching-a-rule/)
+- [x] 84-[ 1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
 
 <!-- ### Algoexpert (4/160)
 - [x] 1-[ Two Number Sum](https://www.algoexpert.io/questions/Two%20Number%20Sum)
