@@ -202,7 +202,7 @@
 - [ ] Square Root Decomposition -->
 
 ## Leetcode & Algoexpert progress
-### Leetcode (81/1716 free problems/2218)
+### Leetcode (82/1716 free problems/2218)
 - [x] 1-[ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] 2-[ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 - [x] 3-[ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -234,7 +234,7 @@
 - [x] 29-[ 1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
 - [x] 30-[ 1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
 - [x] 31-[ 191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-- [x] 32-[ 2194. Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)`**Contest`
+- [x] 32-[ 2194. Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)`**` `Contest`
 - [x] 33-[ 2197. Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)`Contest`
 - [x] 34-[ 1779. Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)
 - [x] 35-[ 1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
@@ -255,7 +255,7 @@
 - [x] 50-[ 1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 - [x] 51-[ 1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
 - [x] 52-[ 2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)`Contest`
-- [x] 53-[ 2210. Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/)`**Contest`
+- [x] 53-[ 2210. Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/)`**` `Contest`
 - [x] 54-[ 832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 - [x] 55-[ 1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 - [x] 56-[ 1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
@@ -278,13 +278,13 @@
 - [x] 73-[ 1608. Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)`***`
 - [x] 74-[ 53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)`***`
 - [x] 75-[ 2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)`Contest`
-- [x] 76-[ 2216. Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/)`***Contest`
+- [x] 76-[ 2216. Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/)`***` `Contest`
 - [x] 77-[ 33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [x] 78-[ 81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 - [x] 79-[ 1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
 - [x] 80-[ 74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [x] 81-[ 1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)
-
+- [x] 82-[ 410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)`***` `Important`
 
 <!-- ### Algoexpert (4/160)
 - [x] 1-[ Two Number Sum](https://www.algoexpert.io/questions/Two%20Number%20Sum)
