@@ -202,7 +202,7 @@
 - [ ] Square Root Decomposition -->
 
 ## Leetcode & Algoexpert progress
-### Leetcode (83/1716 free problems/2218)
+### Leetcode (84/1716 free problems/2218)
 - [x] 1-[ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] 2-[ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 - [x] 3-[ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -286,6 +286,7 @@
 - [x] 81-[ 1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)
 - [x] 82-[ 410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)`***` `Important`
 - [x] 83-[ 1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
+- [x] 84-[ 1773. Count Items Matching a rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 
 <!-- ### Algoexpert (4/160)
 - [x] 1-[ Two Number Sum](https://www.algoexpert.io/questions/Two%20Number%20Sum)
