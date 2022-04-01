@@ -167,7 +167,7 @@
     - [ ] Topological Sort
     - [ ] Bellman ford
     - [ ] A* pathfinding Algorithm
-- [ ] Dynamic Programming
+<!-- - [ ] Dynamic Programming
     - [ ] Introduction
     - [ ] Recursion + Recursion DP + Iteration + Iteration Space Optimized
     - [ ] Complexity Analysis
@@ -175,9 +175,8 @@
     - [ ] Subset Questions
     - [ ] Unbounded Knapsack
     - [ ] Subsequence questions
-    - [ ] String DP
+    - [ ] String DP -->
 - [ ] Greedy Algorithms
-- [ ] Tries
 
 <!-- ### Advanced concepts apart from interviews 
 - [ ] Fast IO
