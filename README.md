@@ -41,7 +41,7 @@
     - [x] Modified Binary Search
     - [x] Binary Search Interview questions
     - [x] Binary Search on 2D Arrays
-- [ ] Pattern questions
+- [x] Pattern questions
 <!-- - [ ] Strings
     - [ ] Introduction
     - [ ] How Strings work
@@ -75,10 +75,9 @@
     - [x] Convert recursion to iteration
     - [x] Tree building of function calls
     - [x] Tail recursion
-    - [ ] Sorting:
+    - [x] Sorting:
         - [x] Merge Sort
-        - [ ] Quick Sort
-        - [ ] Cyclic Sort
+        - [x] Quick Sort
     - [ ] Backtracking
         - [ ] Sudoku Solver
         - [ ] N-Queens
