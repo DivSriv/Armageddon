@@ -201,7 +201,7 @@
 
 ## Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (90/1716 free problems/2218)
+### Leetcode (91/1716 free problems/2218)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -292,6 +292,7 @@
 88. - [x] [ 169. Majority Element](https://leetcode.com/problems/majority-element/) `**` `Boyer-Moore Voting algo`
 89. - [x] [ 217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 90. - [x] [ 680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) `**`
+91. - [x] [ 2220. Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) `**` `Contest`
 
 <!-- ### Algoexpert (4/160)
 - [x] 1-[ Two Number Sum](https://www.algoexpert.io/questions/Two%20Number%20Sum)
