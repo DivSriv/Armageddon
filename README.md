@@ -201,7 +201,7 @@
 
 ## Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (93/1720 free problems/2223)
+### Leetcode (96/1720 free problems/2227)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -295,6 +295,9 @@
 91. - [x] [ 2220. Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) `**` `Contest`
 92. - [x] [ 2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) `**` `Contest`
 93. - [x] [ 2222. Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/) `***` `Contest`
+94. - [x] [ 2224. Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/) `**` `Contest`
+95. - [x] [ 67. Add Binary](https://leetcode.com/problems/add-binary/)
+96. - [x] [ 136. Single Number](https://leetcode.com/problems/single-number/)
 
 <!-- ### Algoexpert (4/160)
 - [x] 1-[ Two Number Sum](https://www.algoexpert.io/questions/Two%20Number%20Sum)
