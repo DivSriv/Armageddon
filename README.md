@@ -201,7 +201,7 @@
 
 ## Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (97/1724 free problems/2227)
+### Leetcode (98/1724 free problems/2227)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -213,7 +213,7 @@
 9. - [x] [ 268. Missing Number](https://leetcode.com/problems/missing-number/)
 10. - [x] [ 448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) `**`
 11. - [x] [ 2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) `Contest`
-12. - [x] [ 287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+12. - [x] [ 287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) `***` `Floyd's Detection cycle (Tortoise & Hare) algo`
 13. - [x] [ 442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 14. - [x] [ 2186. Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) `***` `Contest`
 15. - [x] [ 645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) `***`
@@ -299,6 +299,7 @@
 95. - [x] [ 67. Add Binary](https://leetcode.com/problems/add-binary/)
 96. - [x] [ 136. Single Number](https://leetcode.com/problems/single-number/)
 97. - [x] [ 215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) `**`
+98. - [x] [ 1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) `**`
 
 <!-- ### Algoexpert (4/160)
 - [x] 1-[ Two Number Sum](https://www.algoexpert.io/questions/Two%20Number%20Sum)
