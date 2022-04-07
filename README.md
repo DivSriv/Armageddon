@@ -201,7 +201,7 @@
 
 ## Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (104/1724 free problems/2227)
+### Leetcode (106/1724 free problems/2227)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -306,6 +306,8 @@
 102. - [x] [ 231. Power of Two](https://leetcode.com/problems/power-of-two/)
 103. - [x] [ 326. Power of Three](https://leetcode.com/problems/power-of-three/)
 104. - [x] [ 342. Power of Four](https://leetcode.com/problems/power-of-four/)
+105. - [x] [ 1886. Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) `***`
+106. - [x] [ 566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) `**`
 
 <!-- ### Algoexpert (4/160)
 - [x] 1-[ Two Number Sum](https://www.algoexpert.io/questions/Two%20Number%20Sum)
