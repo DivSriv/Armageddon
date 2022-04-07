@@ -82,7 +82,7 @@
         - - [ ] Sudoku Solver
         - - [ ] N-Queens
         - - [ ] N-Knights
-        - - [ ] Maze problems
+        - - [x] Maze problems
     - - [x] Recursion String Problems
     - - [x] Recursion Array Problems
     - - [x] Recursion Pattern Problems
