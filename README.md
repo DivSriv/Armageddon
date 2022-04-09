@@ -201,7 +201,7 @@
 
 ## Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (107/1724 free problems/2227)
+### Leetcode (110/1724 free problems/2227)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -213,7 +213,7 @@
 9. - [x] [ 268. Missing Number](https://leetcode.com/problems/missing-number/)
 10. - [x] [ 448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) `**`
 11. - [x] [ 2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) `Contest`
-12. - [x] [ 287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) `***` `Floyd's Detection cycle (Tortoise & Hare) algo`
+12. - [x] [ 287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) `***` `Floyd's Cycle Detection (Tortoise & Hare) algo`
 13. - [x] [ 442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 14. - [x] [ 2186. Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) `***` `Contest`
 15. - [x] [ 645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) `***`
@@ -309,6 +309,9 @@
 105. - [x] [ 1886. Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) `***`
 106. - [x] [ 566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) `**`
 107. - [x] [ 1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) `**`
+108. - [x] [ 12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) `**`
+109. - [x] [ 168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) `**`
+110. - [x] [ 628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) `**`
 
 
 <!-- ### Algoexpert (4/160)
