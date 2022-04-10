@@ -201,7 +201,7 @@
 
 ## Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (110/1724 free problems/2227)
+### Leetcode (111/1728 free problems/2234)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -312,6 +312,7 @@
 108. - [x] [ 12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) `**`
 109. - [x] [ 168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) `**`
 110. - [x] [ 628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) `**`
+111. - [x] [ 2231. Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/) `***`
 
 
 <!-- ### Algoexpert (4/160)
