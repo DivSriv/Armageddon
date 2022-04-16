@@ -320,7 +320,8 @@
 - [x] 1-[ Two Number Sum](https://www.algoexpert.io/questions/Two%20Number%20Sum)
 - [x] 2-[ Palindrome Check](https://www.algoexpert.io/questions/Palindrome%20Check)
 - [x] 3-[ Binary Search](https://www.algoexpert.io/questions/Binary%20Search)
-- [x] 4-[ Sorted Squared Array](https://www.algoexpert.io/questions/Sorted%20Squared%20Array) -->
+- [x] 4-[ Sorted Squared Array](https://www.algoexpert.io/questions/Sorted%20Squared%20Array)
+- [x] 5-[ Move Element To End](https://www.algoexpert.io/questions/Move%20Element%20To%20End)-->
 
 
 
