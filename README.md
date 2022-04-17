@@ -68,7 +68,7 @@
     - - [x] Space Complexity 
     - - [x] Memory Allocation of various languages
     - - [x] NP Completeness and Hardness
-- [ ] Recursion
+- [x] Recursion
     - - [x] Introduction
     - - [x] Why recursion?
     - - [x] Flow of recursive programs - stacks
@@ -78,10 +78,10 @@
     - - [x] Sorting:
         - - [x] Merge Sort
         - - [x] Quick Sort
-    - - [ ] Backtracking
-        - - [ ] Sudoku Solver
-        - - [ ] N-Queens
-        - - [ ] N-Knights
+    - - [x] Backtracking
+        - - [x] Sudoku Solver
+        - - [x] N-Queens
+        - - [x] N-Knights
         - - [x] Maze problems
     - - [x] Recursion String Problems
     - - [x] Recursion Array Problems
@@ -201,7 +201,7 @@
 
 ## Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (112/1728 free problems/2234)
+### Leetcode (118/1738 free problems/2246)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -313,7 +313,13 @@
 109. - [x] [ 168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) `**`
 110. - [x] [ 628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) `**`
 111. - [x] [ 2231. Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/) `***`
-112. - [x] [ 1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)
+112. - [x] [ 1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) `**`
+113. - [x] [ 2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/) `Never solve again`
+114. - [x] [ 2236. Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)
+115. - [x] [ 2239. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) `**` `Contest`
+116. - [x] [ 2240. Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) `***` `Contest`
+117. - [x] [ 2243. Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) `**` `Contest`
+118. - [x] [ 2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) `***` `Contest`
 
 
 <!-- ### Algoexpert (4/160)
