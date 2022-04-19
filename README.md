@@ -201,7 +201,7 @@
 
 ## Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (118/1738 free problems/2246)
+### Leetcode (122/1738 free problems/2246)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -320,6 +320,10 @@
 116. - [x] [ 2240. Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) `***` `Contest`
 117. - [x] [ 2243. Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) `**` `Contest`
 118. - [x] [ 2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) `***` `Contest`
+119. - [x] [ 412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) `*`
+120. - [x] [ 28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) `***` `KMP`
+121. - [x] [ 70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) `**` `DP`
+122. - [x] [ 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) `**`
 
 
 <!-- ### Algoexpert (4/160)
