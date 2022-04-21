@@ -201,7 +201,7 @@
 
 ## Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (124/1738 free problems/2246)
+### Leetcode (126/1738 free problems/2246)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -326,6 +326,8 @@
 122. - [x] [ 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) `**`
 123. - [x] [ 58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 124. - [x] [ 7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) `*`
+125. - [x] [ 540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) `**`
+126. - [x] [ 54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) `***` 
 
 
 <!-- ### Algoexpert (4/160)
