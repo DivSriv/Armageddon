@@ -98,11 +98,11 @@
         - - [ ] Polymorphism
         - - [ ] Encapsulation
     - - [ ] Overloading & Overriding
-    - - [ ] Static & Non-Static
+    - - [x] Static & Non-Static
     - - [ ] Access Control
     - - [ ] Interfaces
     - - [ ] Abstract Classes
-    - - [ ] Singleton Class
+    - - [x] Singleton Class
     - - [ ] final, finalize, finally
     - - [ ] Exception Handling
 - [ ] Stacks & Queues
