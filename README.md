@@ -201,7 +201,7 @@
 
 ## Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (132/1738 free problems/2253)
+### Leetcode (133/1742 free problems/2253)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -334,6 +334,7 @@
 130. - [x] [ 1396. Design Underground System](https://leetcode.com/problems/design-underground-system/) `**` `Revise sometime later`
 131. - [x] [ 2249. Count Lattice Points Inside a Circle](https://leetcode.com/problems/count-lattice-points-inside-a-circle/) `**` `Contest`
 132. - [x] [ 2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) `****` `Contest` `Revise`
+133. - [x] [ 2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/) `****` `Contest` `Revise`
 
 
 
