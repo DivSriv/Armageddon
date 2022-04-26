@@ -201,13 +201,13 @@
 
 ## Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (137/1742 free problems/2253)
+### Leetcode (138/1742 free problems/2253)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 4. - [x] [ 704. Binary Search](https://leetcode.com/problems/binary-search/)
 5. - [x] [ 744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
-6. - [x] [ 34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) `***`
+6. - [x] [ 34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) `***` `Pratice sometime later`
 7. - [x] [ 852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 8. - [x] [ 162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 9. - [x] [ 268. Missing Number](https://leetcode.com/problems/missing-number/)
@@ -339,6 +339,7 @@
 135. - [x] [ 885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) `***` `Pratice sometime later`
 136. - [x] [ 75. Sort Colors](https://leetcode.com/problems/sort-colors/) `*`
 137. - [x] [ 198. House Robber](https://leetcode.com/problems/house-robber/) `**` `DP` `Pratice sometime later` `Tricky!`
+138. - [x] [ 55. Jump Game](https://leetcode.com/problems/jump-game/) `***` `Pratice sometime later` `DP` `Greedy`
 
 
 
