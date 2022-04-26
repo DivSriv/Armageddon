@@ -340,7 +340,7 @@
 136. - [x] [ 75. Sort Colors](https://leetcode.com/problems/sort-colors/) `*`
 137. - [x] [ 198. House Robber](https://leetcode.com/problems/house-robber/) `**` `DP` `Pratice sometime later` `Tricky!`
 138. - [x] [ 55. Jump Game](https://leetcode.com/problems/jump-game/) `***` `Pratice sometime later` `DP` `Greedy`
-
+139. - [x] [ 600. Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) `****` `Pratice sometime later` `DP`
 
 
 <!-- ### Algoexpert (4/160)
