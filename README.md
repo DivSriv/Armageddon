@@ -201,7 +201,7 @@
 
 ## Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (135/1742 free problems/2253)
+### Leetcode (136/1742 free problems/2253)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -337,6 +337,7 @@
 133. - [x] [ 2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/) `****` `Contest` `Revise` `Tricky!`
 134. - [x] [ 73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) `**`
 135. - [x] [ 885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) `***` `Pratice sometime later`
+136. - [x] [ 75. Sort Colors](https://leetcode.com/problems/sort-colors/)
 
 
 
