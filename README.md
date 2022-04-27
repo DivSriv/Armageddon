@@ -201,7 +201,7 @@
 
 ## Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (140/1742 free problems/2253)
+### Leetcode (141/1742 free problems/2253)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -342,6 +342,7 @@
 138. - [x] [ 55. Jump Game](https://leetcode.com/problems/jump-game/) `***` `Pratice sometime later` `DP` `Greedy`
 139. - [x] [ 600. Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) `****` `Pratice sometime later` `DP`
 140. - [x] [ 1250. Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/) `***` `Mathematical`
+141. - [x] [ 436. Find Right Interval](https://leetcode.com/problems/find-right-interval/) `***`
 
 
 <!-- ### Algoexpert (4/160)
