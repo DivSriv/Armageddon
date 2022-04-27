@@ -108,7 +108,7 @@
 - [ ] Linked List
     - - [x] Introduction
     - - [x] Singly and Doubly Linked List
-    - - [ ] Circular Linked List
+    - - [x] Circular Linked List
     - - [ ] Fast and slow pointer
     - - [ ] Cycle Detection
     - - [ ] Reversalof LinekdList
