@@ -88,7 +88,7 @@
     - - [x] Recursion Pattern Problems
     - - [x] Subset Questions
     - - [x] Recursion - Permutations, Dice Throws etc Questions
-- [ ] Object Oriented Programming
+<!-- - [ ] Object Oriented Programming
     - - [x] Introduction
     - - [x] Classes & its instances
     - - [x] this keyword in Java
@@ -104,7 +104,15 @@
     - - [ ] Abstract Classes
     - - [x] Singleton Class
     - - [ ] final, finalize, finally
-    - - [ ] Exception Handling
+    - - [ ] Exception Handling -->
+- [ ] Linked List
+    - - [x] Introduction
+    - - [x] Singly and Doubly Linked List
+    - - [ ] Circular Linked List
+    - - [ ] Fast and slow pointer
+    - - [ ] Cycle Detection
+    - - [ ] Reversalof LinekdList
+    - - [ ] Linked List Interview questions
 - [ ] Stacks & Queues
     - - [ ] Introduction
     - - [ ] Interview problems
@@ -112,12 +120,6 @@
     - - [ ] Pop efficient
     - - [ ] Queue using Stack and Vice versa
     - - [ ] Circular Queue
-- [ ] Linked List
-    - - [x] Introduction
-    - - [ ] Fast and slow pointer
-    - - [ ] Cycle Detection
-    - - [ ] Single and Doubly LinkedList
-    - - [ ] Reversalof LinekdList
 - [ ] Dynamic Programming
     - - [ ] Introduction
     - - [ ] Recursion + Recursion DP + Iteration + Iteration Space Optimized
