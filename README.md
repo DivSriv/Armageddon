@@ -332,11 +332,11 @@
 126. - [x] [ 54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) `***` 
 127. - [x] [ 153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) `***`
 128. - [x] [ 59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
-129. - [x] [ 2248. Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) `Contest`
+129. - [x] [ 2248. Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/)
 130. - [x] [ 1396. Design Underground System](https://leetcode.com/problems/design-underground-system/) `**` `Pratice sometime later`
-131. - [x] [ 2249. Count Lattice Points Inside a Circle](https://leetcode.com/problems/count-lattice-points-inside-a-circle/) `**` `Contest`
-132. - [x] [ 2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) `****` `Contest` `Pratice sometime later`
-133. - [x] [ 2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/) `****` `Contest` `Pratice` `Tricky!`
+131. - [x] [ 2249. Count Lattice Points Inside a Circle](https://leetcode.com/problems/count-lattice-points-inside-a-circle/) `**`
+132. - [x] [ 2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) `****` `Pratice sometime later`
+133. - [x] [ 2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/) `****` `Pratice` `Tricky!`
 134. - [x] [ 73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) `**`
 135. - [x] [ 885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) `***` `Pratice sometime later`
 136. - [x] [ 75. Sort Colors](https://leetcode.com/problems/sort-colors/) `*`
