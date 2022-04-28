@@ -203,7 +203,7 @@
 
 ## Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (142/1742 free problems/2253)
+### Leetcode (143/1742 free problems/2253)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -346,6 +346,7 @@
 140. - [x] [ 1250. Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/) `***` `Mathematical`
 141. - [x] [ 436. Find Right Interval](https://leetcode.com/problems/find-right-interval/) `***`
 142. - [x] [ 179. Largest Number](https://leetcode.com/problems/largest-number/) `***`
+143. - [x] [ 2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) `***` `Pratice sometime later`
 
 
 <!-- ### Algoexpert (4/160)
