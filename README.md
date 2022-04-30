@@ -203,7 +203,7 @@
 
 ## Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (147/1742 free problems/2253)
+### Leetcode (148/1742 free problems/2253)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -351,6 +351,7 @@
 145. - [x] [ 21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) `**`
 146. - [x] [ 141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `*`
 147. - [x] [ 142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) `**` `Pratice sometime later`
+148. - [x] [ 202. Happy Number](https://leetcode.com/problems/happy-number/) `**` `LL slow-fast approach used` `Tricky!` 
 
 
 <!-- ### Algoexpert (4/160)
