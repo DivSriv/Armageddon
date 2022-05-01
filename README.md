@@ -111,8 +111,8 @@
     - - [x] Circular Linked List
     - - [x] Fast and slow pointer
     - - [x] Cycle Detection
-    - - [ ] Reversing of LinekdList
-    - - [ ] Linked List Interview questions
+    - - [x] Reversing of LinekdList
+    - - [x] Linked List Interview questions
 - [ ] Stacks & Queues
     - - [ ] Introduction
     - - [ ] Interview problems
