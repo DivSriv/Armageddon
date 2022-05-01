@@ -109,9 +109,9 @@
     - - [x] Introduction
     - - [x] Singly and Doubly Linked List
     - - [x] Circular Linked List
-    - - [ ] Fast and slow pointer
-    - - [ ] Cycle Detection
-    - - [ ] Reversalof LinekdList
+    - - [x] Fast and slow pointer
+    - - [x] Cycle Detection
+    - - [ ] Reversing of LinekdList
     - - [ ] Linked List Interview questions
 - [ ] Stacks & Queues
     - - [ ] Introduction
