@@ -114,7 +114,7 @@
     - - [x] Reversing of LinekdList
     - - [x] Linked List Interview questions
 - [ ] Stacks & Queues
-    - - [ ] Introduction
+    - - [x] Introduction
     - - [ ] Interview problems
     - - [ ] Push efficient
     - - [ ] Pop efficient
@@ -203,7 +203,7 @@
 
 ## Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (153/1742 free problems/2253)
+### Leetcode (154/1750 free problems/2262)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -357,6 +357,7 @@
 151. - [x] [ 148. Sort List](https://leetcode.com/problems/sort-list/) `***` `Pratice sometime later`
 152. - [x] [ 147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) `**`
 153. - [x] [ 206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) `*` `Pratice sometime later`
+154. - [x] [ 905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 
 
 
