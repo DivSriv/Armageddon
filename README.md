@@ -203,7 +203,7 @@
 
 ## Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (156/1750 free problems/2262)
+### Leetcode (157/1750 free problems/2262)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -360,7 +360,7 @@
 154. - [x] [ 905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 155. - [x] [ 2255. Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) `*` `nice use String.prototype.indexOf()`
 156. - [x] [ 2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) `**`
-157. 
+157. - [x] [ 2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) `***` `Pratice sometime later`
 
 
 
