@@ -203,7 +203,7 @@
 
 ## Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (160/1750 free problems/2262)
+### Leetcode (162/1750 free problems/2262)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -364,6 +364,8 @@
 158. - [x] [ 2211. Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/) `***` `Tricky!` 
 159. - [x] [ 92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) `***` `Pratice sometime later`
 160. - [x] [ 234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) `***` `Pratice sometime later`
+161. - [x] [ 143. Reorder List](https://leetcode.com/problems/reorder-list/) `***` `Pratice sometime later`
+162. - [x] [ 25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) `****` `Pratice sometime later`
 
 
 
