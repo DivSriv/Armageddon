@@ -169,15 +169,6 @@
     - - [ ] Topological Sort
     - - [ ] Bellman ford
     - - [ ] A* pathfinding Algorithm
-<!-- - [ ] Dynamic Programming
-    - - [ ] Introduction
-    - - [ ] Recursion + Recursion DP + Iteration + Iteration Space Optimized
-    - - [ ] Complexity Analysis
-    - - [ ] 0/1 Knapsack
-    - - [ ] Subset Questions
-    - - [ ] Unbounded Knapsack
-    - - [ ] Subsequence questions
-    - - [ ] String DP -->
 - [ ] Greedy Algorithms
 
 <!-- ### Advanced concepts apart from interviews 
@@ -203,7 +194,7 @@
 
 ## Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (162/1750 free problems/2262)
+### Leetcode (164/1750 free problems/2262)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -366,6 +357,8 @@
 160. - [x] [ 234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) `***` `Pratice sometime later`
 161. - [x] [ 143. Reorder List](https://leetcode.com/problems/reorder-list/) `***` `Pratice sometime later`
 162. - [x] [ 25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) `****` `Pratice sometime later`
+163. - [x] [ 61. Rotate List](https://leetcode.com/problems/rotate-list/) `***` `Pratice sometime later`
+164. - [x] [ 48. Rotate Image](https://leetcode.com/problems/rotate-image/) `***`
 
 
 
