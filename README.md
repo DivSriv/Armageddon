@@ -194,7 +194,7 @@
 
 ## Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (165/1750 free problems/2262)
+### Leetcode (166/1750 free problems/2262)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -360,6 +360,7 @@
 163. - [x] [ 61. Rotate List](https://leetcode.com/problems/rotate-list/) `***` `Pratice sometime later`
 164. - [x] [ 48. Rotate Image](https://leetcode.com/problems/rotate-image/) `***`
 165. - [x] [ 2259. Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) `**` `Use substring`
+166. - [x] [ 2260. Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) `***` `Pratice sometime later`
 
 
 
