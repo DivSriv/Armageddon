@@ -147,8 +147,8 @@
     - - [ ] top k elements
     - - [ ] interval problems
 - [ ] Hashmaps
-    - - [ ] Introduction
-    - - [ ] Theory - how it works
+    - - [x] Introduction
+    - - [x] Theory - how it works
     - - [ ] Comparisons of various forms
     - - [ ] Limitations and how to solve
     - - [ ] Map using LinkedList
