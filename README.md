@@ -118,7 +118,7 @@
     - - [ ] Interview problems
     - - [x] Push efficient
     - - [x] Pop efficient
-    - - [ ] Queue using Stack and Vice versa
+    - - [x] Queue using Stack and Vice versa
     - - [ ] Circular Queue
 - [ ] Dynamic Programming
     - - [ ] Introduction
