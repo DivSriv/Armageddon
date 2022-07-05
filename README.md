@@ -116,8 +116,8 @@
 - [ ] Stacks & Queues
     - - [x] Introduction
     - - [ ] Interview problems
-    - - [ ] Push efficient
-    - - [ ] Pop efficient
+    - - [x] Push efficient
+    - - [x] Pop efficient
     - - [ ] Queue using Stack and Vice versa
     - - [ ] Circular Queue
 - [ ] Dynamic Programming
