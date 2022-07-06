@@ -119,7 +119,7 @@
     - - [x] Push efficient
     - - [x] Pop efficient
     - - [x] Queue using Stack and Vice versa
-    - - [ ] Circular Queue
+    - - [x] Circular Queue
 - [ ] Dynamic Programming
     - - [ ] Introduction
     - - [ ] Recursion + Recursion DP + Iteration + Iteration Space Optimized
