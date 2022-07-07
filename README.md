@@ -121,7 +121,7 @@
     - - [x] Queue using Stack and Vice versa
     - - [x] Circular Queue
 - [ ] Dynamic Programming
-    - - [ ] Introduction
+    - - [x] Introduction
     - - [ ] Recursion + Recursion DP + Iteration + Iteration Space Optimized
     - - [ ] Complexity Analysis
     - - [ ] 0/1 Knapsack
