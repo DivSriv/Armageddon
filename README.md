@@ -130,8 +130,8 @@
     - - [ ] Subseq questions
     - - [ ] String DP
 - [ ] Trees
-    - - [ ] Introduction
-    - - [ ] Binary Trees
+    - - [x] Introduction
+    - - [x] Binary Trees
     - - [ ] Binary Search Trees
     - - [ ] DFS
     - - [ ] BFS
