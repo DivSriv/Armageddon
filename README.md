@@ -113,9 +113,9 @@
     - - [x] Cycle Detection
     - - [x] Reversing of LinekdList
     - - [x] Linked List Interview questions
-- [ ] Stacks & Queues
+- [x] Stacks & Queues
     - - [x] Introduction
-    - - [ ] Interview problems
+    - - [x] Interview problems
     - - [x] Push efficient
     - - [x] Pop efficient
     - - [x] Queue using Stack and Vice versa
