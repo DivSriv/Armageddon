@@ -122,7 +122,7 @@
     - - [x] Circular Queue
 - [ ] Dynamic Programming
     - - [x] Introduction
-    - - [ ] Recursion + Recursion DP + Iteration + Iteration Space Optimized
+    - - [x] Recursion + Recursion DP + Iteration + Iteration Space Optimized
     - - [ ] Complexity Analysis
     - - [ ] 0/1 Knapsack
     - - [ ] Subset Questions
