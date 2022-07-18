@@ -123,7 +123,7 @@
 - [ ] Dynamic Programming
     - - [x] Introduction
     - - [x] Recursion + Recursion DP + Iteration + Iteration Space Optimized
-    - - [ ] Complexity Analysis
+    - - [x] Complexity Analysis
     - - [ ] 0/1 Knapsack
     - - [ ] Subset Questions
     - - [ ] Unbounded Knapsack
