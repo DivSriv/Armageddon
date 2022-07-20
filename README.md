@@ -132,7 +132,7 @@
 - [ ] Trees
     - - [x] Introduction
     - - [x] Binary Trees
-    - - [ ] Binary Search Trees
+    - - [x] Binary Search Trees
     - - [ ] DFS
     - - [ ] BFS
     - - [ ] AVL Trees
