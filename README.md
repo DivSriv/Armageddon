@@ -124,8 +124,8 @@
     - - [x] Introduction
     - - [x] Recursion + Recursion DP + Iteration + Iteration Space Optimized
     - - [x] Complexity Analysis
-    - - [ ] 0/1 Knapsack
-    - - [ ] Subset Questions
+    - - [x] 0/1 Knapsack
+    - - [x] Subset Questions
     - - [ ] Unbounded Knapsack
     - - [ ] Subseq questions
     - - [ ] String DP
