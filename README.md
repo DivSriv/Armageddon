@@ -127,7 +127,7 @@
     - - [x] 0/1 Knapsack
     - - [x] Subset Questions
     - - [ ] Unbounded Knapsack
-    - - [ ] Subseq questions
+    - - [x] Subseq questions
     - - [ ] String DP
 - [ ] Trees
     - - [x] Introduction
