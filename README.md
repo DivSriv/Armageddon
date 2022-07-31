@@ -157,6 +157,12 @@
     - - [ ] Probing
     - - [ ] Huffman-Encoder
 - [ ] Tries
+    - - [ ] Introduction
+    - - [ ] Theory - how it works
+    - - [ ] Applications
+    - - [ ] Insert and Search
+    - - [ ] GFG articles and Questions
+    - - [ ] Interview Questions
 - [ ] Graphs
     - - [ ] Introduction
     - - [ ] BFS
