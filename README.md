@@ -157,7 +157,7 @@
     - - [ ] Probing
     - - [ ] Huffman-Encoder
 - [ ] Tries
-    - - [ ] Introduction
+    - - [x] Introduction
     - - [ ] Theory - how it works
     - - [ ] Applications
     - - [ ] Insert and Search
