@@ -176,6 +176,10 @@
     - - [ ] Bellman ford
     - - [ ] A* pathfinding Algorithm
 - [ ] Greedy Algorithms
+    - - [x] Introduction
+    - - [ ] Applications
+    - - [ ] LC Questions
+    - - [ ] Interview Questions
 
 <!-- ### Advanced concepts apart from interviews 
 - [ ] Fast IO
