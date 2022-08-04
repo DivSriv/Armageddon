@@ -132,6 +132,8 @@
 - [ ] Trees
     - - [x] Introduction
     - - [x] Binary Trees
+    - - [x] Recursive Preorder, Inorder, Postorder Traversals
+    - - [x] Iterative Preorder, Inorder, Postorder Traversals
     - - [x] Binary Search Trees
     - - [ ] DFS
     - - [ ] BFS
