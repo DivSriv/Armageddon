@@ -134,7 +134,7 @@
     - - [x] Binary Trees
     - - [x] Recursive Preorder, Inorder, Postorder Traversals
     - - [x] Iterative Preorder, Inorder, Postorder Traversals
-    - - [x] Binary Search Trees
+    - - [ ] Binary Search Trees
     - - [ ] DFS
     - - [ ] BFS
     - - [ ] AVL Trees
@@ -179,7 +179,7 @@
     - - [ ] A* pathfinding Algorithm
 - [ ] Greedy Algorithms
     - - [x] Introduction
-    - - [ ] Applications
+    - - [x] Applications
     - - [ ] LC Questions
     - - [ ] Interview Questions
 
