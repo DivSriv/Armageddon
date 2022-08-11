@@ -136,9 +136,9 @@
     - - [x] Recursive Preorder, Inorder, Postorder Traversals
     - - [x] Iterative Preorder, Inorder, Postorder Traversals
     - - [x] LC Questions
+    - - [x] DFS
+    - - [x] BFS    
     - - [ ] Binary Search Trees
-    - - [ ] DFS
-    - - [ ] BFS
     - - [ ] LC Questions
     - - [ ] AVL Trees
     - - [ ] Segment Tree
