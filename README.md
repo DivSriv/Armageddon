@@ -183,7 +183,7 @@
 - [ ] Greedy Algorithms
     - - [x] Introduction
     - - [x] Applications
-    - - [ ] LC Questions
+    - - [x] LC,GFG Questions
     - - [ ] Interview Questions
 
 <!-- ### Advanced concepts apart from interviews 
