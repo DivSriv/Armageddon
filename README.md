@@ -170,7 +170,7 @@
     - - [ ] Interview Questions
 - [ ] Graphs
     - - [x] Introduction
-    - - [ ] BFS
+    - - [x] BFS
     - - [ ] DFS
     - - [ ] Working with graph components
     - - [ ] Minimum Spanning Trees
