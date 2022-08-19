@@ -171,8 +171,8 @@
 - [ ] Graphs
     - - [x] Introduction
     - - [x] BFS
-    - - [ ] DFS
-    - - [ ] Working with graph components
+    - - [x] DFS
+    - - [x] Working with graph components
     - - [ ] Minimum Spanning Trees
     - - [ ] Kruskal Algorithm
     - - [ ] Prims Algorithm
