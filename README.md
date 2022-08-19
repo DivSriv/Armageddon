@@ -169,7 +169,7 @@
     - - [ ] GFG articles and Questions
     - - [ ] Interview Questions
 - [ ] Graphs
-    - - [ ] Introduction
+    - - [x] Introduction
     - - [ ] BFS
     - - [ ] DFS
     - - [ ] Working with graph components
