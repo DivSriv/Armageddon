@@ -163,8 +163,8 @@
     - - [ ] Huffman-Encoder
 - [ ] Tries
     - - [x] Introduction
-    - - [ ] Theory - how it works
-    - - [ ] Applications
+    - - [x] Theory - how it works
+    - - [x] Applications
     - - [ ] Insert and Search
     - - [ ] GFG articles and Questions
     - - [ ] Interview Questions
