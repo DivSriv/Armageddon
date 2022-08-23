@@ -145,9 +145,9 @@
     - - [ ] Segment Tree
     - - [ ] Fenwick Tree / Binary Indexed Tree
 - [ ] Heaps
-    - - [ ] Introduction
-    - - [ ] Theory
-    - - [ ] Priority Queue
+    - - [x] Introduction
+    - - [x] Theory
+    - - [x] Priority Queue
     - - [ ] Two Heaps Method
     - - [ ] k-way merge
     - - [ ] top k elements
