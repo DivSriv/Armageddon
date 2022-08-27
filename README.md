@@ -44,7 +44,7 @@
 - [x] Pattern questions
 - [ ] Strings
     - [x] Introduction
-    - [ ] How Strings work
+    - [x] How Strings work
     - [ ] Comparison of methods
     - [ ] Operations in Strings
     - [ ] StringBuilder in java
