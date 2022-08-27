@@ -42,12 +42,12 @@
     - - [x] Binary Search Interview questions
     - - [x] Binary Search on 2D Arrays
 - [x] Pattern questions
-- [ ] Strings
+- [x] Strings
     - [x] Introduction
     - [x] How Strings work
     - [x] Comparison of methods
     - [x] Operations in Strings
-    - [ ] StringBuilder in java
+    - [x] StringBuilder in java
 - [x] Maths for DSA
     - - [x] Introduction
     - - [x] Complete Bitwise Operators
