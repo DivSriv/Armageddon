@@ -45,8 +45,8 @@
 - [ ] Strings
     - [x] Introduction
     - [x] How Strings work
-    - [ ] Comparison of methods
-    - [ ] Operations in Strings
+    - [x] Comparison of methods
+    - [x] Operations in Strings
     - [ ] StringBuilder in java
 - [x] Maths for DSA
     - - [x] Introduction
