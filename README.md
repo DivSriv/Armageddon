@@ -43,7 +43,7 @@
     - - [x] Binary Search on 2D Arrays
 - [x] Pattern questions
 - [ ] Strings
-    - [ ] Introduction
+    - [x] Introduction
     - [ ] How Strings work
     - [ ] Comparison of methods
     - [ ] Operations in Strings
