@@ -96,8 +96,8 @@
         - - [x] Inheritance
         - - [x] Abstraction
         - - [x] Polymorphism
-        - - [ ] Encapsulation
-    - - [ ] Overloading & Overriding
+        - - [x] Encapsulation
+    - - [x] Overloading & Overriding
     - - [x] Static & Non-Static
     - - [ ] Access Control
     - - [ ] Interfaces
