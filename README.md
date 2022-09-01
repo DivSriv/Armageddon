@@ -94,8 +94,8 @@
     - - [x] this keyword in Java
     - - [x] Properties
         - - [x] Inheritance
-        - - [ ] Abstraction
-        - - [ ] Polymorphism
+        - - [x] Abstraction
+        - - [x] Polymorphism
         - - [ ] Encapsulation
     - - [ ] Overloading & Overriding
     - - [x] Static & Non-Static
