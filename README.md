@@ -99,9 +99,9 @@
         - - [x] Encapsulation
     - - [x] Overloading & Overriding
     - - [x] Static & Non-Static
-    - - [ ] Access Control
-    - - [ ] Interfaces
-    - - [ ] Abstract Classes
+    - - [x] Access Control
+    - - [x] Interfaces
+    - - [x] Abstract Classes
     - - [x] Singleton Class
     - - [ ] final, finalize, finally
     - - [ ] Exception Handling
