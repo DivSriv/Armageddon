@@ -88,7 +88,7 @@
     - - [x] Recursion Pattern Problems
     - - [x] Subset Questions
     - - [x] Recursion - Permutations, Dice Throws etc Questions
-- [ ] Object Oriented Programming
+- [x] Object Oriented Programming
     - - [x] Introduction
     - - [x] Classes & its instances
     - - [x] this keyword in Java
@@ -103,8 +103,8 @@
     - - [x] Interfaces
     - - [x] Abstract Classes
     - - [x] Singleton Class
-    - - [ ] final, finalize, finally
-    - - [ ] Exception Handling
+    - - [x] final, finalize, finally
+    - - [x] Exception Handling
 - [x] Linked List
     - - [x] Introduction
     - - [x] Singly and Doubly Linked List
