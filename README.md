@@ -155,7 +155,7 @@
 - [ ] Hashmaps
     - - [x] Introduction
     - - [x] Theory - how it works
-    - - [ ] Comparisons of various forms
+    - - [x] Comparisons of various forms
     - - [ ] Limitations and how to solve
     - - [ ] Map using LinkedList
     - - [ ] Map using Hash
@@ -204,6 +204,6 @@
 - [ ] Chinese Remainder Theorem
 - [ ] Euler Totient
 - [ ] NP-Completeness
-- [ ] Multithreading
+- [x] Multithreading
 - [ ] Fenwick Tree / Binary Indexed Tree
 - [ ] Square Root Decomposition
