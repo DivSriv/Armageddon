@@ -187,7 +187,7 @@
     - - [x] LC,GFG Questions
     - - [ ] Interview Questions
 
-<!-- ### Advanced concepts apart from interviews 
+### Advanced concepts apart from interviews 
 - [ ] Fast IO
 - [ ] File handling
 - [ ] Bitwise + DP
@@ -206,4 +206,4 @@
 - [ ] NP-Completeness
 - [ ] Multithreading
 - [ ] Fenwick Tree / Binary Indexed Tree
-- [ ] Square Root Decomposition -->
+- [ ] Square Root Decomposition
