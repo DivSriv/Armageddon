@@ -156,8 +156,8 @@
     - - [x] Introduction
     - - [x] Theory - how it works
     - - [x] Comparisons of various forms
-    - - [ ] Limitations and how to solve
-    - - [ ] Map using LinkedList
+    - - [x] Limitations and how to solve
+    - - [x] Map using LinkedList
     - - [ ] Map using Hash
     - - [ ] Chaining
     - - [ ] Probing
