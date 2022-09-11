@@ -158,7 +158,7 @@
     - - [x] Comparisons of various forms
     - - [x] Limitations and how to solve
     - - [x] Map using LinkedList
-    - - [ ] Map using Hash
+    - - [x] Map using Hash
     - - [ ] Chaining
     - - [ ] Probing
     - - [ ] Huffman-Encoder
@@ -201,7 +201,7 @@
 - [ ] Wilson's Theorem
 - [ ] Euler's Theorem
 - [ ] Lucas Theorem
-- [ ] Chinese Remainder Theorem
+- [x] Chinese Remainder Theorem
 - [ ] Euler Totient
 - [ ] NP-Completeness
 - [x] Multithreading
