@@ -174,6 +174,7 @@
     - - [x] BFS
     - - [x] DFS
     - - [x] Working with graph components
+    - - [ ] LC Questions
     - - [ ] Minimum Spanning Trees
     - - [ ] Kruskal Algorithm
     - - [ ] Prims Algorithm
