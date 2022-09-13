@@ -190,7 +190,7 @@
 
 ### Advanced concepts apart from interviews 
 - [ ] Fast IO
-- [ ] File handling
+- [x] File handling
 - [ ] Bitwise + DP
 - [ ] Extended Euclidean algorithm
 - [ ] Modulo Multiplicative Inverse
