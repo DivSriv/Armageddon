@@ -138,7 +138,8 @@
     - - [x] Iterative Preorder, Inorder, Postorder Traversals
     - - [x] LC Questions
     - - [x] DFS
-    - - [x] BFS    
+    - - [x] BFS  
+    - - [x] Morris Traversal `O(1) Space`
     - - [ ] Binary Search Trees
     - - [ ] LC Questions
     - - [ ] AVL Trees
