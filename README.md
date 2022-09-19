@@ -167,7 +167,7 @@
     - - [x] Introduction
     - - [x] Theory - how it works
     - - [x] Applications
-    - - [ ] Insert and Search
+    - - [x] Insert and Search
     - - [ ] GFG articles and Questions
     - - [ ] Interview Questions
 - [ ] Graphs
