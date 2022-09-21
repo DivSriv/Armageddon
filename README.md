@@ -140,7 +140,7 @@
     - - [x] DFS
     - - [x] BFS  
     - - [x] Morris Traversal `O(1) Space`
-    - - [ ] Binary Search Trees
+    - - [x] Binary Search Trees
     - - [ ] LC Questions
     - - [ ] AVL Trees
     - - [ ] Segment Tree
