@@ -141,7 +141,7 @@
     - - [x] BFS  
     - - [x] Morris Traversal `O(1) Space`
     - - [x] Binary Search Trees
-    - - [ ] LC Questions
+    - - [x] LC Questions
     - - [ ] AVL Trees
     - - [ ] Segment Tree
     - - [ ] Fenwick Tree / Binary Indexed Tree
