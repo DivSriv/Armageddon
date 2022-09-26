@@ -202,7 +202,7 @@
 - [ ] Fermat’s Theorem
 - [ ] Wilson's Theorem
 - [ ] Euler's Theorem
-- [ ] Lucas Theorem
+- [x] Lucas Theorem
 - [x] Chinese Remainder Theorem
 - [ ] Euler Totient
 - [ ] NP-Completeness
