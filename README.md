@@ -160,8 +160,8 @@
     - - [x] Limitations and how to solve
     - - [x] Map using LinkedList
     - - [x] Map using Hash
-    - - [ ] Chaining
-    - - [ ] Probing
+    - - [x] Chaining
+    - - [x] Probing
     - - [ ] Huffman-Encoder
 - [ ] Tries
     - - [x] Introduction
