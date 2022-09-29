@@ -181,6 +181,7 @@
     - - [ ] Prims Algorithm
     - - [ ] Dijkstra’s shortest path algorithm
     - - [ ] Topological Sort
+    - - [ ] Kahn's Algorithm
     - - [ ] Bellman ford
     - - [ ] A* pathfinding Algorithm
 - [ ] Greedy Algorithms
