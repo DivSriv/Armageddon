@@ -175,6 +175,7 @@
     - - [x] BFS
     - - [x] DFS
     - - [x] Working with graph components
+    - - [x] Bipartite Graph
     - - [x] LC Questions
     - - [ ] Minimum Spanning Trees
     - - [ ] Kruskal Algorithm
