@@ -181,7 +181,7 @@
     - - [ ] Kruskal Algorithm
     - - [ ] Prims Algorithm
     - - [ ] Dijkstra’s shortest path algorithm
-    - - [ ] Topological Sort
+    - - [x] Topological Sort
     - - [ ] Kahn's Algorithm
     - - [ ] Bellman ford
     - - [ ] A* pathfinding Algorithm
