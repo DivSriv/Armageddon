@@ -182,7 +182,7 @@
     - - [ ] Prims Algorithm
     - - [ ] Dijkstra’s shortest path algorithm
     - - [x] Topological Sort
-    - - [ ] Kahn's Algorithm
+    - - [x] Kahn's Algorithm
     - - [ ] Bellman ford
     - - [ ] A* pathfinding Algorithm
 - [ ] Greedy Algorithms
