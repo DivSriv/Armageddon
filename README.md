@@ -180,7 +180,7 @@
     - - [ ] Minimum Spanning Trees
     - - [ ] Kruskal Algorithm
     - - [ ] Prims Algorithm
-    - - [ ] Dijkstra’s shortest path algorithm
+    - - [x] Dijkstra’s shortest path algorithm
     - - [x] Topological Sort
     - - [x] Kahn's Algorithm
     - - [ ] Bellman ford
