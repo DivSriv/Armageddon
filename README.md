@@ -1,199 +1,199 @@
 # Progress Tracker
 
 ## DSA
-- [x] Complete Git & GitHub Course
-- [x] Introduction to Programming
-  - - [x] Types of languages
-  - - [x] Memory management
-- [x] Flow of the program
-  - - [x] Flowcharts 
-  - - [x] Pseudocode
-- [x] Introduction to Java
-  - - [x] Introduction
-  - - [x] How it works
-  - - [x] Setup Installation
-  - - [x] Input and Output in Java
-  - - [x] Conditionals & Loops in Java
-    - - [x] if else
-    - - [x] loops
-    - - [x] Switch statements
-  - - [x] Data types
-  - - [x] Coding best practices
-- [x] Functions
-  - - [x] Introduction
-  - - [x] Scoping in Java
-  - - [x] Shadowing 
-  - - [x] Variable Length Arguments
-  - - [x] Overloading
-- [x] Arrays
-  - - [x] Introduction 
-  - - [x] Memory management 
-  - - [x] Input and Output
-  - - [x] ArrayList Introduction
-  - - [x] Sorting 
-    - - [x] Insertion Sort
-    - - [x] Selection Sort
-    - - [x] Bubble Sort
-    - - [x] Cyclic Sort (Merge sort etc after recursion)
-  - [x] Searching 
-    - - [x] Linear Search
-    - - [x] Binary Search
-    - - [x] Modified Binary Search
-    - - [x] Binary Search Interview questions
-    - - [x] Binary Search on 2D Arrays
-- [x] Pattern questions
-- [x] Strings
-    - [x] Introduction
-    - [x] How Strings work
-    - [x] Comparison of methods
-    - [x] Operations in Strings
-    - [x] StringBuilder in java
-- [x] Maths for DSA
-    - - [x] Introduction
-    - - [x] Complete Bitwise Operators
-    - - [x] Prime numbers
-    - - [x] HCF / LCM
-    - - [x] Sieve of Eratosthenes
-    - - [x] Newton's Square Root Method
-    - - [x] Number Theory
-    - - [x] Euclidean algorithm
-- [x] Space and Time Complexity Analysis
-    - - [x] Introduction
-    - - [x] Comparion of various cases
-    - - [x] Solving Linear Recurrence Relations
-    - - [x] Solving Divide and Conquer Recurrence Relations
-    - - [x] Big-O, Big-Omega, Big-Theta Notations
-    - - [x] Get equation of any relation easily - best and easiest approach
-    - - [x] Complexity discussion of all the problems we do
-    - - [x] Space Complexity 
-    - - [x] Memory Allocation of various languages
-    - - [x] NP Completeness and Hardness
-- [x] Recursion
-    - - [x] Introduction
-    - - [x] Why recursion?
-    - - [x] Flow of recursive programs - stacks
-    - - [x] Convert recursion to iteration
-    - - [x] Tree building of function calls
-    - - [x] Tail recursion
-    - - [x] Sorting:
-        - - [x] Merge Sort
-        - - [x] Quick Sort
+- [ ] Complete Git & GitHub Course
+- [ ] Introduction to Programming
+  - - [ ] Types of languages
+  - - [ ] Memory management
+- [ ] Flow of the program
+  - - [ ] Flowcharts 
+  - - [ ] Pseudocode
+- [ ] Introduction to Java
+  - - [ ] Introduction
+  - - [ ] How it works
+  - - [ ] Setup Installation
+  - - [ ] Input and Output in Java
+  - - [ ] Conditionals & Loops in Java
+    - - [ ] if else
+    - - [ ] loops
+    - - [ ] Switch statements
+  - - [ ] Data types
+  - - [ ] Coding best practices
+- [ ] Functions
+  - - [ ] Introduction
+  - - [ ] Scoping in Java
+  - - [ ] Shadowing 
+  - - [ ] Variable Length Arguments
+  - - [ ] Overloading
+- [ ] Arrays
+  - - [ ] Introduction 
+  - - [ ] Memory management 
+  - - [ ] Input and Output
+  - - [ ] ArrayList Introduction
+  - - [ ] Sorting 
+    - - [ ] Insertion Sort
+    - - [ ] Selection Sort
+    - - [ ] Bubble Sort
+    - - [ ] Cyclic Sort (Merge sort etc after recursion)
+  - [ ] Searching 
+    - - [ ] Linear Search
+    - - [ ] Binary Search
+    - - [ ] Modified Binary Search
+    - - [ ] Binary Search Interview questions
+    - - [ ] Binary Search on 2D Arrays
+- [ ] Pattern questions
+- [ ] Strings
+    - [ ] Introduction
+    - [ ] How Strings work
+    - [ ] Comparison of methods
+    - [ ] Operations in Strings
+    - [ ] StringBuilder in java
+- [ ] Maths for DSA
+    - - [ ] Introduction
+    - - [ ] Complete Bitwise Operators
+    - - [ ] Prime numbers
+    - - [ ] HCF / LCM
+    - - [ ] Sieve of Eratosthenes
+    - - [ ] Newton's Square Root Method
+    - - [ ] Number Theory
+    - - [ ] Euclidean algorithm
+- [ ] Space and Time Complexity Analysis
+    - - [ ] Introduction
+    - - [ ] Comparion of various cases
+    - - [ ] Solving Linear Recurrence Relations
+    - - [ ] Solving Divide and Conquer Recurrence Relations
+    - - [ ] Big-O, Big-Omega, Big-Theta Notations
+    - - [ ] Get equation of any relation easily - best and easiest approach
+    - - [ ] Complexity discussion of all the problems we do
+    - - [ ] Space Complexity 
+    - - [ ] Memory Allocation of various languages
+    - - [ ] NP Completeness and Hardness
+- [ ] Recursion
+    - - [ ] Introduction
+    - - [ ] Why recursion?
+    - - [ ] Flow of recursive programs - stacks
+    - - [ ] Convert recursion to iteration
+    - - [ ] Tree building of function calls
+    - - [ ] Tail recursion
+    - - [ ] Sorting:
+        - - [ ] Merge Sort
+        - - [ ] Quick Sort
     - - [x] Backtracking
-        - - [x] Sudoku Solver
-        - - [x] N-Queens
-        - - [x] N-Knights
-        - - [x] Maze problems
-    - - [x] Recursion String Problems
-    - - [x] Recursion Array Problems
-    - - [x] Recursion Pattern Problems
-    - - [x] Subset Questions
-    - - [x] Recursion - Permutations, Dice Throws etc Questions
-- [x] Object Oriented Programming
-    - - [x] Introduction
-    - - [x] Classes & its instances
-    - - [x] this keyword in Java
-    - - [x] Properties
-        - - [x] Inheritance
-        - - [x] Abstraction
-        - - [x] Polymorphism
-        - - [x] Encapsulation
-    - - [x] Overloading & Overriding
-    - - [x] Static & Non-Static
-    - - [x] Access Control
-    - - [x] Interfaces
-    - - [x] Abstract Classes
-    - - [x] Singleton Class
-    - - [x] final, finalize, finally
-    - - [x] Exception Handling
-- [x] Linked List
-    - - [x] Introduction
-    - - [x] Singly and Doubly Linked List
-    - - [x] Circular Linked List
-    - - [x] Fast and slow pointer
-    - - [x] Cycle Detection
-    - - [x] Reversing of LinekdList
-    - - [x] Linked List Interview questions
-- [x] Stacks & Queues
-    - - [x] Introduction
-    - - [x] Interview problems
-    - - [x] Push efficient
-    - - [x] Pop efficient
-    - - [x] Queue using Stack and Vice versa
-    - - [x] Circular Queue
+        - - [ ] Sudoku Solver
+        - - [ ] N-Queens
+        - - [ ] N-Knights
+        - - [ ] Maze problems
+    - - [ ] Recursion String Problems
+    - - [ ] Recursion Array Problems
+    - - [ ] Recursion Pattern Problems
+    - - [ ] Subset Questions
+    - - [] Recursion - Permutations, Dice Throws etc Questions
+- [] Object Oriented Programming
+    - - [ ] Introduction
+    - - [ ] Classes & its instances
+    - - [ ] this keyword in Java
+    - - [ ] Properties
+        - - [ ] Inheritance
+        - - [ ] Abstraction
+        - - [ ] Polymorphism
+        - - [ ] Encapsulation
+    - - [ ] Overloading & Overriding
+    - - [ ] Static & Non-Static
+    - - [ ] Access Control
+    - - [ ] Interfaces
+    - - [ ] Abstract Classes
+    - - [ ] Singleton Class
+    - - [ ] final, finalize, finally
+    - - [ ] Exception Handling
+- [ ] Linked List
+    - - [ ] Introduction
+    - - [ ] Singly and Doubly Linked List
+    - - [ ] Circular Linked List
+    - - [ ] Fast and slow pointer
+    - - [ ] Cycle Detection
+    - - [ ] Reversing of LinekdList
+    - - [ ] Linked List Interview questions
+- [ ] Stacks & Queues
+    - - [ ] Introduction
+    - - [ ] Interview problems
+    - - [ ] Push efficient
+    - - [ ] Pop efficient
+    - - [ ] Queue using Stack and Vice versa
+    - - [ ] Circular Queue
 - [ ] Dynamic Programming
-    - - [x] Introduction
-    - - [x] Recursion + Recursion DP + Iteration + Iteration Space Optimized
-    - - [x] Complexity Analysis
-    - - [x] 0/1 Knapsack
-    - - [x] Subset Questions
-    - - [x] DP on Grids
-    - - [x] LC Questions on Above topics
+    - - [ ] Introduction
+    - - [ ] Recursion + Recursion DP + Iteration + Iteration Space Optimized
+    - - [ ] Complexity Analysis
+    - - [ ] 0/1 Knapsack
+    - - [ ] Subset Questions
+    - - [ ] DP on Grids
+    - - [ ] LC Questions on Above topics
     - - [ ] Unbounded Knapsack
-    - - [x] Subseq questions
+    - - [ ] Subseq questions
     - - [ ] String DP
 - [ ] Trees
-    - - [x] Introduction
-    - - [x] Binary Trees
-    - - [x] Recursive Preorder, Inorder, Postorder Traversals
-    - - [x] Iterative Preorder, Inorder, Postorder Traversals
-    - - [x] LC Questions
-    - - [x] DFS
-    - - [x] BFS  
-    - - [x] Morris Traversal `O(1) Space`
-    - - [x] Binary Search Trees
-    - - [x] LC Questions
+    - - [ ] Introduction
+    - - [ ] Binary Trees
+    - - [ ] Recursive Preorder, Inorder, Postorder Traversals
+    - - [ ] Iterative Preorder, Inorder, Postorder Traversals
+    - - [ ] LC Questions
+    - - [ ] DFS
+    - - [ ] BFS  
+    - - [ ] Morris Traversal `O(1) Space`
+    - - [ ] Binary Search Trees
+    - - [ ] LC Questions
     - - [ ] AVL Trees
     - - [ ] Segment Tree
     - - [ ] Fenwick Tree / Binary Indexed Tree
 - [ ] Heaps
-    - - [x] Introduction
-    - - [x] Theory
-    - - [x] Priority Queue
+    - - [ ] Introduction
+    - - [ ] Theory
+    - - [ ] Priority Queue
     - - [ ] Two Heaps Method
     - - [ ] k-way merge
     - - [ ] top k elements
     - - [ ] interval problems
 - [ ] Hashmaps
-    - - [x] Introduction
-    - - [x] Theory - how it works
-    - - [x] Comparisons of various forms
-    - - [x] Limitations and how to solve
-    - - [x] Map using LinkedList
-    - - [x] Map using Hash
-    - - [x] Chaining
-    - - [x] Probing
+    - - [ ] Introduction
+    - - [ ] Theory - how it works
+    - - [ ] Comparisons of various forms
+    - - [ ] Limitations and how to solve
+    - - [ ] Map using LinkedList
+    - - [ ] Map using Hash
+    - - [ ] Chaining
+    - - [ ] Probing
     - - [ ] Huffman-Encoder
 - [ ] Tries
-    - - [x] Introduction
-    - - [x] Theory - how it works
-    - - [x] Applications
-    - - [x] Insert and Search
+    - - [ ] Introduction
+    - - [ ] Theory - how it works
+    - - [ ] Applications
+    - - [ ] Insert and Search
     - - [ ] GFG articles and Questions
     - - [ ] Interview Questions
 - [ ] Graphs
-    - - [x] Introduction
-    - - [x] BFS
-    - - [x] DFS
-    - - [x] Working with graph components
-    - - [x] Bipartite Graph
-    - - [x] LC Questions
+    - - [ ] Introduction
+    - - [ ] BFS
+    - - [ ] DFS
+    - - [ ] Working with graph components
+    - - [ ] Bipartite Graph
+    - - [ ] LC Questions
     - - [ ] Minimum Spanning Trees
     - - [ ] Kruskal Algorithm
     - - [ ] Prims Algorithm
-    - - [x] Dijkstra’s shortest path algorithm
-    - - [x] Topological Sort
-    - - [x] Kahn's Algorithm
+    - - [ ] Dijkstra’s shortest path algorithm
+    - - [ ] Topological Sort
+    - - [ ] Kahn's Algorithm
     - - [ ] Bellman ford
     - - [ ] A* pathfinding Algorithm
 - [ ] Greedy Algorithms
-    - - [x] Introduction
-    - - [x] Applications
-    - - [x] LC,GFG Questions
+    - - [ ] Introduction
+    - - [ ] Applications
+    - - [ ] LC,GFG Questions
     - - [ ] Interview Questions
 
 ### Advanced concepts apart from interviews 
 - [ ] Fast IO
-- [x] File handling
+- [ ] File handling
 - [ ] Bitwise + DP
 - [ ] Extended Euclidean algorithm
 - [ ] Modulo Multiplicative Inverse
@@ -204,10 +204,10 @@
 - [ ] Fermat’s Theorem
 - [ ] Wilson's Theorem
 - [ ] Euler's Theorem
-- [x] Lucas Theorem
-- [x] Chinese Remainder Theorem
+- [ ] Lucas Theorem
+- [ ] Chinese Remainder Theorem
 - [ ] Euler Totient
 - [ ] NP-Completeness
-- [x] Multithreading
+- [ ] Multithreading
 - [ ] Fenwick Tree / Binary Indexed Tree
 - [ ] Square Root Decomposition
